@@ -338,22 +338,3 @@ print()
 print("Check the file directory for your own personalized business resource!")
 
 
-
-
-
-#print(userNeeds)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
