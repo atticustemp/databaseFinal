@@ -1,0 +1,7 @@
+LegalResources
+url,state,resType,cost,budget
+https://www.justice.gov/osdbu,FED,Contact,0,Small
+https://www.lawyers.com/,FED,Education,0,NULL
+https://www.cali.org/,FED,Education,250,NULL
+https://communities-rise.org/microenterprise-services/,WA,Contact,0,Small
+https://www.lawinfo.com/resources/business-law/washington/,WA,Education,0,NULL

@@ -1,0 +1,9 @@
+TaxResources
+url,state,resType,bType,cost,descrip
+https://dor.wa.gov/open-business/apply-business-license/plan-taxes/tax-classifications-common-business-activities,WA,Education,Any,0,Tax classification information for WA
+https://dor.wa.gov/taxes-rates/tax-incentives/credits#SBC,WA,Education,Any,0,Small business Tax Credit information
+https://dfi.wa.gov/small-business#:~:text=Call%20%28360%29%20902-8760%20and%20ask%20for%20the%20Smallanswers%20to%20your%20questions%20or%20arrange%20a%20meeting.,WA,Education,Any,0,State offered help in tax and financial information
+https://www.washingtonpolicy.org/publications/detail/senate-bill-5873-that-gives-small-business-tax-relief-has-passed-the-senate-and-house,WA,Education,Any,0,Information on WA State business tax relief
+https://secure.dor.wa.gov/home/,WA,Portal,Any,0,Link to file WA State business Taxes
+https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc,All,Education,LLC,0,IRS LLC tax guidelines and information
+https://www.quicksprout.com/how-llc-taxes-work/,All,Education,LLC,0,Basic information on how Taxes work for an LLC

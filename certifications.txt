@@ -1,0 +1,17 @@
+Certifications						
+ID,cost,link,expiration,processingTime,department,cName,priority
+1,50,https://dor.wa.gov/open-business,12,21,Revenue,Business License,1
+2,0,https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online,0,28,Revenue,Federal Tax ID number,2
+3,200,https://dor.wa.gov/open-business/apply-business-license/registrations-and-filings-required-businesses/secretary_of_state,12,14,Revenue,LLC License,3
+4,200,https://dor.wa.gov/open-business/apply-business-license/registrations-and-filings-required-businesses/secretary_of_state,12,14,Revenue,LLP License,3
+5,50,https://dor.wa.gov/open-business/apply-business-license/registrations-and-filings-required-businesses/secretary_of_state,12,14,Revenue,NonProfit License,3
+6,200,https://dor.wa.gov/open-business/apply-business-license/registrations-and-filings-required-businesses/secretary_of_state,12,14,Revenue,Profit License,3
+7,0,https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits,0,0,Revenue,Industry Specific Certifications,3
+8,180,https://www.sos.wa.gov/sites/default/files/2022-09/12.10.2020---certificate-of-formation---wa-pllc.pdf,12,14,State,PLLC License,3
+9,180,https://www.sos.wa.gov/sites/default/files/2022-11/12.10.2020%20-%20Articles%20of%20Incorporation%20-%20WA%20Professional%20Service%20Corporation.pdf,12,14,State,Professional Service Corporation License,3
+10,180,https://www.sos.wa.gov/sites/default/files/2022-09/11.2019---articles-of-incorporation---washington-social-purpose-corporation.pdf,12,14,State,Social Purpose Corporation License,3
+11,30,https://www.sos.wa.gov/sites/default/files/2022-09/12.10.2020---articles-of-incorporation-24.06---wa-nonprofit-misc-mutual-corporation.pdf,12,14,State,NonProfit Articles of Incorporation,3
+12,20,https://www.sos.wa.gov/sites/default/files/2022-09/12.2021---24.03a-application-for-status-as-a-public-benefit.pdf,12,14,State,Public Benefit of NonProfit Corporation,3
+13,180,https://www.sos.wa.gov/sites/default/files/2022-09/12.10.2020---certificate-of-limited-partnership---wa-lp-or-lllp.pdf,12,14,State,LP License,3
+14,55,https://www.sos.wa.gov/sites/default/files/2022-11/11.2022%20-%20TM%20Registration.pdf,0,180,State,TM Application,4
+15,0,https://www.sos.wa.gov/corporations-charities/business-entities/download-forms,0,0,State,Form Download Page,4

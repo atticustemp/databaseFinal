@@ -1,0 +1,9 @@
+BankingResources
+Url,State,ResType,BType
+https://www.chase.com/,FED,Bank,NULL
+https://promotions.bankofamerica.com/consumer/multiproduct?cm_mmc=ENT-Consumer-_-Google-PS-_-bank_of_america-_-Brand_CoreBrand&gclid=Cj0KCQiA-JacBhC0ARIsAIxybyPYh_XB0SLD6PsGc1BpAteUeTWPkGptpuqKEe-CkIAw1CBST6GA0OMaAr60EALw_wcB&gclsrc=aw.ds,FED,Bank,NULL
+https://www.bluevine.com/?utm_source=Google&utm_medium=cpc&utm_term=B,FED,Education,NULL
+https://www.jpmorganchase.com/,FED,Bank,NULL
+https://www.lendingclub.com/,FED,Bank,NULL
+https://www.fool.com/the-ascent/banks/articles/do-you-really-need-that-business-checking-account/,FED,Education,NULL
+https://fitsmallbusiness.com/best-banks-for-small-business/#:~:text=Here%20are%20the%2010%20bestBest%20high%2Dyield%20checking%20account,FED,Education,NULL

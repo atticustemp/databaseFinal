@@ -1,0 +1,70 @@
+Here is your personalized business plan based on your state, budget, business type, and industry! 
+User Data ---> User ID: 4, User Name: Matther Porras, User Budget: Large
+                User State: WA, User Business Type: LLC, User Industry: Healthcare
+
+Necessary Certifications: 
+Make sure to get your certifications in this order! 
+
+ID cost link expiration processingTime department cName priority 
+
+1, 50, https://dor.wa.gov/open-business, 12, 21, Revenue, Business License, 1 
+2, 0, https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online, 0, 28, Revenue, Federal Tax ID number, 2 
+3, 200, https://dor.wa.gov/open-business/apply-business-license/registrations-and-filings-required-businesses/secretary_of_state, 12, 14, Revenue, LLC License, 3 
+4, 200, https://dor.wa.gov/open-business/apply-business-license/registrations-and-filings-required-businesses/secretary_of_state, 12, 14, Revenue, LLP License, 3 
+5, 50, https://dor.wa.gov/open-business/apply-business-license/registrations-and-filings-required-businesses/secretary_of_state, 12, 14, Revenue, NonProfit License, 3 
+6, 200, https://dor.wa.gov/open-business/apply-business-license/registrations-and-filings-required-businesses/secretary_of_state, 12, 14, Revenue, Profit License, 3 
+7, 0, https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits, 0, 0, Revenue, Industry Specific Certifications, 3 
+8, 180, https://www.sos.wa.gov/sites/default/files/2022-09/12.10.2020---certificate-of-formation---wa-pllc.pdf, 12, 14, State, PLLC License, 3 
+9, 180, https://www.sos.wa.gov/sites/default/files/2022-11/12.10.2020%20-%20Articles%20of%20Incorporation%20-%20WA%20Professional%20Service%20Corporation.pdf, 12, 14, State, Professional Service Corporation License, 3 
+10, 180, https://www.sos.wa.gov/sites/default/files/2022-09/11.2019---articles-of-incorporation---washington-social-purpose-corporation.pdf, 12, 14, State, Social Purpose Corporation License, 3 
+11, 30, https://www.sos.wa.gov/sites/default/files/2022-09/12.10.2020---articles-of-incorporation-24.06---wa-nonprofit-misc-mutual-corporation.pdf, 12, 14, State, NonProfit Articles of Incorporation, 3 
+12, 20, https://www.sos.wa.gov/sites/default/files/2022-09/12.2021---24.03a-application-for-status-as-a-public-benefit.pdf, 12, 14, State, Public Benefit of NonProfit Corporation, 3 
+13, 180, https://www.sos.wa.gov/sites/default/files/2022-09/12.10.2020---certificate-of-limited-partnership---wa-lp-or-lllp.pdf, 12, 14, State, LP License, 3 
+14, 55, https://www.sos.wa.gov/sites/default/files/2022-11/11.2022%20-%20TM%20Registration.pdf, 0, 180, State, TM Application, 4 
+15, 0, https://www.sos.wa.gov/corporations-charities/business-entities/download-forms, 0, 0, State, Form Download Page, 4 
+
+
+Legal Resources: 
+
+url state resType cost budget 
+
+https://www.cali.org/, FED, Education, 250, Any 
+https://www.lawinfo.com/resources/business-law/washington/, WA, Education, 0, Any 
+https://www.lawyers.com/, FED, Education, 0, Any 
+
+
+Patent Resources: 
+
+url resType industry cost 
+
+https://fig1patents.com/, Contact, Any, 100 
+https://www.legalzoom.com/articles/how-to-get-a-patent-in-5-steps, Education, Any, 0 
+https://www.thoughtstopaper.com/patent-applications/provisional-patent-application.php?platform=google&campaign=1500431965&adgroup=60597010489&extension=&keywordid=kwd-383095099614&locationinterest=&locationphysical=9033791&matchtype=e&network=g&device=c&, Contact, Any, 700 
+
+
+Tax Resources: 
+
+url state resType bType cost descrip 
+
+https://dfi.wa.gov/small-business#:~:text=Call%20%28360%29%20902-8760%20and%20ask%20for%20the%20Smallanswers%20to%20your%20questions%20or%20arrange%20a%20meeting., WA, Education, Any, 0, State offered help in tax and financial information 
+https://dor.wa.gov/open-business/apply-business-license/plan-taxes/tax-classifications-common-business-activities, WA, Education, Any, 0, Tax classification information for WA 
+https://dor.wa.gov/taxes-rates/tax-incentives/credits#SBC, WA, Education, Any, 0, Small business Tax Credit information 
+https://secure.dor.wa.gov/home/, WA, Portal, Any, 0, Link to file WA State business Taxes 
+https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc, FED, Education, LLC, 0, IRS LLC tax guidelines and information 
+https://www.quicksprout.com/how-llc-taxes-work/, FED, Education, LLC, 0, Basic information on how Taxes work for an LLC 
+https://www.washingtonpolicy.org/publications/detail/senate-bill-5873-that-gives-small-business-tax-relief-has-passed-the-senate-and-house, WA, Education, Any, 0, Information on WA State business tax relief 
+
+
+Banking Resources: 
+
+url state resType bType 
+
+https://fitsmallbusiness.com/best-banks-for-small-business/#:~:text=Here%20are%20the%2010%20bestBest%20high%2Dyield%20checking%20account, FED, Education, Any 
+https://promotions.bankofamerica.com/consumer/multiproduct?cm_mmc=ENT-Consumer-_-Google-PS-_-bank_of_america-_-Brand_CoreBrand&gclid=Cj0KCQiA-JacBhC0ARIsAIxybyPYh_XB0SLD6PsGc1BpAteUeTWPkGptpuqKEe-CkIAw1CBST6GA0OMaAr60EALw_wcB&gclsrc=aw.ds, FED, Bank, Any 
+https://www.bluevine.com/?utm_source=Google&utm_medium=cpc&utm_term=B, FED, Education, Any 
+https://www.chase.com/, FED, Bank, Any 
+https://www.fool.com/the-ascent/banks/articles/do-you-really-need-that-business-checking-account/, FED, Education, Any 
+https://www.jpmorganchase.com/, FED, Bank, Any 
+https://www.lendingclub.com/, FED, Bank, Any 
+
+

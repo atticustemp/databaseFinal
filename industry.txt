@@ -1,0 +1,6 @@
+Industry
+name,marketDescription
+Retail,Retail sales grew by 7% in 2020 and by over 14% in 2021. NRF forecasts that sales will grow by between 6% and 8% to more than $4.9 trillion in 2022.
+Agriculture,In 2021 nearly 18 percent of the nations economy and 29 percent of all American jobs were linked to agriculture
+Healthcare,The healthcare sector is one of the largest and most complex in the U.S. economy which accounted for 18% of gross domestic product (GDP) in 2020.
+Restaurant,The foodservice industry is forecast to reach $898B in sales in 2022.

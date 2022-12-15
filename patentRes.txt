@@ -1,0 +1,5 @@
+PatentResources
+url,resType,industry,cost
+https://www.thoughtstopaper.com/patent-applications/provisional-patent-application.php?platform=google&campaign=1500431965&adgroup=60597010489&extension=&keywordid=kwd-383095099614&locationinterest=&locationphysical=9033791&matchtype=e&network=g&device=c&devicemodel=&creative=286690837904&keyword=how%20to%20patent%20application&placement=&target=&adposition=&gclid=Cj0KCQiAg_KbBhDLARIsANx7wAyGaWgaQoPHjiWcg--Nd-xsQtO0sPzIs0RXROIrw14IZ4vUiaK8K7gaAlrXEALw_wcB,Contact,Any,700
+https://fig1patents.com/,Contact,Any,100
+https://www.legalzoom.com/articles/how-to-get-a-patent-in-5-steps,Education,Any,0

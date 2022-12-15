@@ -1,0 +1,6 @@
+BType
+name,description
+LLC,Great for flexibility+cannot go public+not recognized globally
+DBA,Go by a different business name without creating a new company+no liability protection
+S Corp,Can go public one day+only taxed once+limited to 100 shareholders
+C Corp,Can go public one day+taxed twice+unlimited shareholders
